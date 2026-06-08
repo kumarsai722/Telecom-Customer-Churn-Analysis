@@ -14,8 +14,11 @@ Business Problem:
 Customer churn is a major challenge for telecom companies as acquiring new customers is often more expensive than retaining existing ones. The goal of this project is to:
 
 1)Identify customers who are likely to churn.
+
 2)Understand the factors contributing to customer attrition.
+
 3)Analyze customer demographics and service usage patterns.
+
 4)Provide insights to improve customer retention strategies.
 
 Customers are leaving the telecom company. We need to identify why and suggest ways to reduce churn.
@@ -24,17 +27,28 @@ Dataset Information:
 ------------------------------------
 The dataset contains customer information such as:
 
-age                                                         
+age  
+
 city
+
 state
+
 pincode
+
 city_tier
+
 profession
+
 annual_income_lakhs
+
 is_married
+
 has_children
+
 num_dependents
+
 operator
+
 plan_type
 monthly_charges
 is_prepaid
