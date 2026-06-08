@@ -62,10 +62,15 @@ churn (target)
 Tools & Technologies Used:
 -------------------------------------------
 Pyhton(Pandas)
+
 SQL (for data analysis)
+
 Microsoft Excel
+
 Power BI
+
 Power Query
+
 DAX
 
 
@@ -73,13 +78,21 @@ Project Flow Diagram:
 --------------------------------------------
 
 Kaggle Dataset
+
       ↓
+      
 Python (Cleaning)
+
       ↓
+      
 PostgreSQL (Analysis)
+
       ↓
+      
 Power BI Dashboard
+
       ↓
+      
 Business Insights & Recommendations
 
 
@@ -188,35 +201,54 @@ Introduce rewards and incentives for long-tenure customers.
 📁 Repository Structure:
 
 Telecom-Customer-Churn-Analysis/
+
 │
+
 ├── Data/
+
 │   └── telecom_customer_churn.csv
 │
+
 ├── SQL/
-│   └── churn_analysis_queries.sql
+
+│ 
+└── churn_analysis_queries.sql
 │
+
 ├── Python/
+
+
 │   └── churn_analysis.ipynb
 │
+
 ├── PowerBI/
-│   └── Telecom_Churn_Dashboard.pbix
+
+│ 
+└── Telecom_Churn_Dashboard.pbix
 │
+
 ├── Images/
+
 │   └── dashboard_screenshots
 │
+
 └── README.md
 
 
 This dashboard enables telecom companies to proactively identify churn risks, understand customer behavior, and develop effective retention strategies. The insights generated can help reduce customer attrition and improve overall business performance.
 
-Author
+Author:
+
 SaiKumar Gandham
 
 
-Aspiring Data Analyst
+Aspiring Data Analyst:
+
 Skiled In: SQL, Python, Power BI, Excel, Data Analysis
 
 Connect with Me
 LinkedIn Profile:https://www.linkedin.com/in/saikumar-gandham-22a9212a4/
+
 GitHub Profile:https://github.com/kumarsai722/Telecom-Customer-Churn-Analysis/edit/main/README.md
+
 Email Address:gandamsai765@gmail.com
